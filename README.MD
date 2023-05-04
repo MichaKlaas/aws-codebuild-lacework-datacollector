@@ -1,0 +1,1 @@
+https://medium.com/@joassouramou/terraform-hands-on-how-to-build-and-push-a-docker-image-on-ecr-using-aws-codebuild-8ebc444e5d48

@@ -1,0 +1,1 @@
+FROM lacework/datacollector:6.5.0
